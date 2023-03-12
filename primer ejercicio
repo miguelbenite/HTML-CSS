@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de introduccion a html en Openbootcamp</title>
+    </head>
+    <body>
+        
+            <!-- Este es mi primer comentario de dos lineas
+                Aprendiendo a documentar mi codigo en openbootcamp
+
+
+            -->
+        
+        <div>
+            <h3>Lista desordenada Mis videos favoritos de youtube</h3>
+            <ul>
+                <li>Video 1</li>
+                <a href="https://www.youtube.com/watch?v=2MRdtXWcgIw"> blink-182 - Adam's Song</a>
+
+                <li>Video 2</li>
+                <a href="https://www.youtube.com/watch?v=BRDKvdK9J0s">Valentino Rossi's Top 10 Moments at Yamaha Factory Racing</a>
+
+                <li>Video 3</li>
+                <a href="https://www.youtube.com/watch?v=p2xBsiNca7c">Mountain Biking the lower Whistler Bike Park</a>
+
+            </ul>
+
+        </div>
+
+
+    </body>
+</html>
